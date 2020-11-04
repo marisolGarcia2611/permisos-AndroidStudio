@@ -18,7 +18,7 @@
        android:fontFamily="casual"
        android:textSize="28dp"
        android:id="@+id/btn1"
-       android:onClick="hacerllamada"></Button>
+       android:onClick="hacerLlamada"></Button>
 
     <ImageView
         android:id="@+id/imageView"
