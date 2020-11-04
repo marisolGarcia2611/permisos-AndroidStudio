@@ -16,7 +16,9 @@
        android:text="Llamar"
        android:textColor="#ECF8F7"
        android:fontFamily="casual"
-       android:textSize="28dp"></Button>
+       android:textSize="28dp"
+       android:id="@+id/btn1"
+       android:onClick="hacerllamada"></Button>
 
     <ImageView
         android:id="@+id/imageView"
